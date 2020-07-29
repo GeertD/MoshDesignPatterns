@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package DesignPatterns;
 
 public class Main {
 
