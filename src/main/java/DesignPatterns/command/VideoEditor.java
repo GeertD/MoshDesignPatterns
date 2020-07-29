@@ -1,4 +1,4 @@
-package com.codewithmosh.command;
+package DesignPatterns.command;
 
 public class VideoEditor {
     private float contrast = 0.5f;

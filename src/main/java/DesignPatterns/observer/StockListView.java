@@ -1,4 +1,4 @@
-package com.codewithmosh.observer;
+package DesignPatterns.observer;
 
 import java.util.ArrayList;
 import java.util.List;

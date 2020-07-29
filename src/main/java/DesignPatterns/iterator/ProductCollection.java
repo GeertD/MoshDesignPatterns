@@ -1,4 +1,4 @@
-package com.codewithmosh.iterator;
+package DesignPatterns.iterator;
 
 import java.util.ArrayList;
 import java.util.List;

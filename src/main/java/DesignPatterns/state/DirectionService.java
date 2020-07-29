@@ -1,4 +1,4 @@
-package com.codewithmosh.state;
+package DesignPatterns.state;
 
 public class DirectionService {
     private TravelMode travelMode;

@@ -1,4 +1,4 @@
-package com.codewithmosh.strategy;
+package DesignPatterns.strategy;
 
 public class ChatClient {
     private String encryptionAlgorithm;

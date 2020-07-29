@@ -1,10 +1,20 @@
-package com.codewithmosh.memento;
+package DesignPatterns.memento;
 
 public class Document {
     private String content;
     private String fontName;
     private int fontSize;
 
+    public DocState createState() {
+        return new DocState(content, fontName, fontSize);
+    }
+
+    public void restoreState(DocState previousState) {
+        this.content = previousState.content;
+        this.fontName = previousState.fontName;
+        this.fontSize = previousState.fontSize;
+    }
+    
     public String getContent() {
         return content;
     }

@@ -1,4 +1,4 @@
-package com.codewithmosh.mediator;
+package DesignPatterns.mediator;
 
 public class CheckBox extends UIControl {
     private boolean isChecked;

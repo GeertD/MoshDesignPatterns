@@ -1,4 +1,4 @@
-package com.codewithmosh.visitor;
+package DesignPatterns.visitor;
 
 import java.util.ArrayList;
 import java.util.List;

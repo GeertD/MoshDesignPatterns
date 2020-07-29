@@ -1,4 +1,4 @@
-package com.codewithmosh.iterator;
+package DesignPatterns.iterator;
 
 public class Product {
   private int id;

@@ -1,4 +1,4 @@
-package com.codewithmosh.observer;
+package DesignPatterns.observer;
 
 public class Stock {
     private String symbol;

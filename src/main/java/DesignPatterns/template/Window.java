@@ -1,4 +1,4 @@
-package com.codewithmosh.template;
+package DesignPatterns.template;
 
 public class Window {
     public void close() {

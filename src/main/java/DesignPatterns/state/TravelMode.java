@@ -1,4 +1,4 @@
-package com.codewithmosh.state;
+package DesignPatterns.state;
 
 public enum TravelMode {
     DRIVING,

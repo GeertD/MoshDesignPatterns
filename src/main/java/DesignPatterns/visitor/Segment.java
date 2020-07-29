@@ -1,4 +1,4 @@
-package com.codewithmosh.visitor;
+package DesignPatterns.visitor;
 
 public class Segment {
     public void reduceNoise() {

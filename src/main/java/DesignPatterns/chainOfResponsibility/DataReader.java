@@ -1,4 +1,4 @@
-package com.codewithmosh.chainOfResponsibility;
+package DesignPatterns.chainOfResponsibility;
 
 public class DataReader {
     public void read(String fileName) {
